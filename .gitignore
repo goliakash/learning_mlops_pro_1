@@ -1,2 +1,3 @@
 venv
 .dvc/cache/
+models/*.pkl
